@@ -6,7 +6,6 @@ This repository serves as my coding playground while reading the book "Command-L
 
 - **Title:** Command-Line Rust
 - **Author:** Ken Youens-Clark
-- **Publisher:**  O’Reilly Media, Inc
 
 ## Contents
 
