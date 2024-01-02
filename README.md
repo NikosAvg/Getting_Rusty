@@ -1,4 +1,4 @@
-# Command-Line Rust
+# Getting Rusty
 
 This repository serves as my coding playground while reading the book "Command-Line Rust." It contains the code snippets and exercises I work on as I progress through the book.
 
