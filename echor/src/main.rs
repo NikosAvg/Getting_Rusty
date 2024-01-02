@@ -15,7 +15,7 @@ use clap::{App, Arg};
 fn main() {
     let matches = App::new("echor")
         .version("0.1.0")
-        .author("Nikos Avgoustis <avgoustis@ionio.gr>")
+        .author("Nikos Avgoustis")
         .about("Echo written in Rust")
         .arg(
             Arg::with_name("text")
